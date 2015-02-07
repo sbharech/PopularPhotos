@@ -36,3 +36,5 @@ Questions:
 2. If network error happens, the list is empty. After that pull to refresh is not working. 
 
 Walkthrough of all user stories:
+
+![popularphotosdemo](https://cloud.githubusercontent.com/assets/2020366/6093076/0072eb6e-af20-11e4-9948-056926c3f5d2.gif)
