@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="title_background">#FAFAFA</color>
+    <color name="user_name">#2F369C</color>
+    <color name="like_color">#2F369C</color>
+</resources>
